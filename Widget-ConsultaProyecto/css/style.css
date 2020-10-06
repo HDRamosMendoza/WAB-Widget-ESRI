@@ -1,0 +1,58 @@
+.widget-consulta-proyecto h3 {
+  font-size: 1.2em;
+}
+.widget-consulta-proyecto h3, p {
+  margin-top: 0;
+}
+/* add additional custom styles */
+.widget-consulta-proyecto .content-field {
+	margin-bottom: 7px;
+	width: 100%;
+}
+.widget-consulta-proyecto .content-field .lbl {
+	box-sizing: border-box;
+	width: 30%;
+}
+.widget-consulta-proyecto .content-field .lbl label {
+	display: table-cell;
+	font-weight: bold;
+    height: 34px;
+    vertical-align: middle;
+}
+.widget-consulta-proyecto .content-field .txt {
+	box-sizing: border-box;
+	width: 67%;
+}
+.widget-consulta-proyecto .content-field .txt .dijit {
+	width: 100% !important;
+}
+.widget-consulta-proyecto .content-field .lbl,
+.widget-consulta-proyecto .content-field .txt {
+	display: inline-block;
+	vertical-align: top;
+}
+.widget-consulta-proyecto .content-field .layer_button,
+.widget-consulta-proyecto .content-field .layer_button_border {
+	float: right;
+	margin-right: 5px;
+}
+.widget-consulta-proyecto .layer_button {
+  background-color: #24b5cc;
+  border-color: #24b5cc;
+  color: #FFFFFF;  
+}
+.widget-consulta-proyecto .layer_button_border {
+  background-color: #FFFFFF;
+  border-color: #24b5cc;
+  color: #24b5cc;
+}
+.widget-consulta-proyecto .layer_button:hover {
+  background-color: #0090A7;
+  border-color: #0090A7;  
+  color: #FFFFFF;
+}
+.widget-consulta-proyecto .layer_button_border:hover {
+  background-color: #EEEEEE;;
+  border-color: #24b5cc;
+  color: #24b5cc;
+}

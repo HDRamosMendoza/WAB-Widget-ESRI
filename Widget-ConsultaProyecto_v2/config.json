@@ -1,0 +1,17 @@
+{
+  "idGroupLayer": "proyectos_decreto_visor_7498",
+  "listNameField": [
+    "codunico",
+    "codsnip",
+    "programa",
+    "departamento",
+    "provincia",
+    "distrito",
+    "ccpp",
+    "nomproyct"
+  ],
+  "colorRowSelected": "#abd6ff",
+  "filterField_1": "nomproyct",
+  "filterField_2": "codsnip",
+  "filterField_3": "codunico"
+}
